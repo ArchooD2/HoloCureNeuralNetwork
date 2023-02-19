@@ -1,3 +1,8 @@
+"""THIS SCRIPT IS NOT WORKING AS OF COMMENTING. 
+
+DO NOT EXPECT THIS TO WORK."""
+
+
 # import necessary modules
 import subprocess
 from NNINPUT import get_screen
